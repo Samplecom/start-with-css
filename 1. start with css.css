@@ -1,0 +1,10 @@
+.intro-paragraph{
+    color: rgb(1, 1, 69);
+    fornt-weight:bold;
+    fornt-size: 18px;
+}
+.conclusion{
+    color: blueviolet;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
